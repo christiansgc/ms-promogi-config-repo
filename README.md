@@ -1,0 +1,1 @@
+# ms-promogi-config-repo
